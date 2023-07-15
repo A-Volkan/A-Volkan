@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #
-## 
+<br>
 <!--  daily.dev BOOKMARKS:START -->
 <!--  daily.dev BOOKMARKS:END -->
+</br>
