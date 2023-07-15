@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<a href="https://app.daily.dev/Vasci"><img src="https://api.daily.dev/devcards/b86150a69e1c4e1f942d44b6a01ad789.png?r=p09" width="400" alt="ASCI VOLKAN's Dev Card"/></a>
+
 # Bookmarks
 <!-- BLOG-POST-LIST:START -->
 - [HTML Cheat Sheet](https://app.daily.dev/posts/SxYsW2DIC?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
