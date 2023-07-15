@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Blog posts
+# Bookmarks
 <!-- BLOG-POST-LIST:START -->
 - [HTML Cheat Sheet](https://app.daily.dev/posts/SxYsW2DIC?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
 - [4 Tips for remote pair programming](https://app.daily.dev/posts/XCEVZyRcw?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
