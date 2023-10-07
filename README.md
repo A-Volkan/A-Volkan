@@ -4,9 +4,9 @@
 
 # Bookmarks
 <!-- BLOG-POST-LIST:START -->
+- [React Redux: Token Authentication example with JWT &amp; Axios](https://app.daily.dev/posts/ggXNizQMB?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
+- [Redux-Toolkit CRUD example with React Hooks, Axios &amp; Web API](https://app.daily.dev/posts/5crhiDHSl?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
+- [API Documentation in Node.js Using Swagger](https://app.daily.dev/posts/Mr7z_Ej0g?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
 - [New Viewport Units](https://app.daily.dev/posts/LkicAkzCc?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
 - [HTML Cheat Sheet](https://app.daily.dev/posts/SxYsW2DIC?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
-- [4 Tips for remote pair programming](https://app.daily.dev/posts/XCEVZyRcw?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
-- [Best Practices for Web Security in NodeJs | OWASP &lpar;Open Web Application Security Project&rpar;](https://app.daily.dev/posts/9WS7gasTj?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
-- [OWASP: The Free Resource For Website Security](https://app.daily.dev/posts/R7BJXllkI?utm_source=rss&utm_medium=bookmarks&utm_campaign=DYan2tin1cPLbvFrRYoBf)
 <!-- BLOG-POST-LIST:END -->
