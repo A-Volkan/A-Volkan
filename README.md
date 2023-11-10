@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi there 👋🧑‍🎨
 
 <a href="https://app.daily.dev/Vasci"><img src="https://api.daily.dev/devcards/b86150a69e1c4e1f942d44b6a01ad789.png?r=p09" width="400" alt="ASCI VOLKAN's Dev Card"/></a>
+
+I'm a Web Developer located in France, dedicated to crafting elegant and user-friendly websites. ⚒️
+
+🎨 I'm interested in the whole frontend stack, I enjoy exploring new technologies and embarking on exciting projects. Beyond coding, I wear the hats of a 🎵 music producer and sound engineer 🎵, bringing creativity to both digital and auditory realms.
+
+My focal point is transforming clients' visions into reality, treating every project as a unique piece of art. 🖼️
+
+🌎 Let's connect and explore the boundless possibilities 🌎
+
+🔗 Find me through my social links. 🔗
 
 # Bookmarks
 <!-- BLOG-POST-LIST:START -->
